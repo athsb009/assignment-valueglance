@@ -17,7 +17,7 @@ https://valueglance-snowy.vercel.app/
 1. Clone the repository:
    ```bash
    git clone https://github.com/athsb009/assignment-valueglance.git
-   cd backend
+   cd api
 2. Create and activate a virtual environment:
    ```bash
     python -m venv venv
